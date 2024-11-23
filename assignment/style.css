@@ -1,0 +1,15 @@
+
+header{
+  margin:  auto;
+  text-align: center
+  
+}
+ul{
+  border: 1px;
+  background-color: lightgray;
+}
+li{
+  font-weight: bold;
+  color: green;
+
+}
